@@ -45,7 +45,7 @@ npm run start
  ```
  to init server.json thats simulates a backend
 
-## Relevant dependencies for the project:
+## Relevant dependences for the project:
 - [Axios](https://github.com/axios/axios) for API calls;
 - [Eslint](https://eslint.org/) for standardization and code corrections;
 - [React](https://reactjs.org/) to the development and use of components;
