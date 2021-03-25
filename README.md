@@ -1,3 +1,12 @@
+# **Rocketshoes**
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
 ![Imgur](https://i.imgur.com/NzzeCFf.png)
 ![Imgur](https://i.imgur.com/NpEjzCP.png)
 ![Imgur](https://i.imgur.com/6faefk6.png)
@@ -9,9 +18,6 @@
 A simple shoes store made up reactjs and redux in the rocketseat bootcamp
 
 ## How do I use it?
-
-Must have installed:
-- [Reactotron](https://github.com/infinitered/reactotron) to logs view (Optional);
 
 After installation, you can use the following commands in your terminal inside the project folder or VSCode:
 
@@ -65,9 +71,6 @@ npm run start
 Loja de tenis feita em reactjs e redux feita no bootcamp da rocketseat.
 
 ## Como eu a utilizo?
-
-Precisa ter instalado:
-- [Reactotron](https://github.com/infinitered/reactotron) para visualização de logs (Opcional);
 
 Após a instalação você pode usar os seguintes comandos no seu terminal dentro da pasta do proejeto ou no VSCode:
 
