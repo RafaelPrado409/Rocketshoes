@@ -62,7 +62,11 @@ npm run start
 
 ***Some dependences were not mentioned, to make part of the relevants***
 
-***To feedbacks and contact: santiagorafael409@gmail.com***
+### Feedbacks
+
+[![Linkedin: Rafael Prado](https://img.shields.io/badge/-RafaelPrado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafael-prado-8a40b6132/)
+[![Gmail Badge](https://img.shields.io/badge/-santiagorafael409@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:santiagorafael409@gmail.com)
+[![Rafael Prado]( https://img.shields.io/github/followers/RafaelPrado409?label=follow&style=social)](https://github.com/RafaelPrado409)
 
 # Português
 
@@ -114,6 +118,12 @@ para iniciar o server.json que e uma simulação de um backend
 
 ***Algumas dependências não foram mencionadas, por fazerem parte das relevantes***
 
-***Para feedbacks e contato: santiagorafael409@gmail.com***
+### Feedbacks
+
+[![Linkedin: Rafael Prado](https://img.shields.io/badge/-RafaelPrado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/rafael-prado-8a40b6132/)
+[![Gmail Badge](https://img.shields.io/badge/-santiagorafael409@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:santiagorafael409@gmail.com)
+[![Rafael Prado]( https://img.shields.io/github/followers/RafaelPrado409?label=follow&style=social)](https://github.com/RafaelPrado409)
+
+[⬆ Back to top](#Rocketshoes)<br>
 
 
